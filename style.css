@@ -25,7 +25,14 @@ th {
     width: 640px;
     height: 480px;
 }
+#img3{
+    width: 640px;
+    height: 480px;
+}
 #img2{
     width: 1280px;
     height: 1024px;
+}
+#hr{
+    color: black;
 }
